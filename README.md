@@ -1,13 +1,9 @@
-Kiuwan rules examples
-===============
+# rules-examples
 
-Are you thinking in develop your own quality rules for Kiuwan? It's easy. Here you can find a set of examples that can help you to understand how to start.
+> **This repository has moved to a new public location.**
 
+The source code for this project is now maintained at:
 
-Quick Start Guide
-----------
-Kiuwan provides a Rule Development Kit to make your own rules using Eclipse. Here you can find a Quick Start Guide: https://kiuwan.com/docs/display/K5/Quick+start+guide.
+## [https://github.com/sembi-oss/rules-examples](https://github.com/sembi-oss/rules-examples)
 
-
-Examples index
---------
+Please update your bookmarks, forks, and any references to point to the new address.
